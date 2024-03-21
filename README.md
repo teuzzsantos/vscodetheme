@@ -1,4 +1,4 @@
-{
+```{
   "workbench.startupEditor": "newUntitledFile",
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
