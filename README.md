@@ -1,4 +1,4 @@
-```{
+{
   "workbench.startupEditor": "newUntitledFile",
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
@@ -134,5 +134,4 @@
   "workbench.colorTheme": "Min Dark",
   "workbench.statusBar.visible": false,
   "files.autoSave": "afterDelay"
-}
-```
+}```
